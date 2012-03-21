@@ -1,1 +1,1 @@
-"Jednoduchy klient/server IM system v Jave" 
+Jednoduchy klient/server IM system v Jave 
