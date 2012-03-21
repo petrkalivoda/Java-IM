@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+	<client>
+		<username>cypher</username>
+		<password>beginnow</password>
+		<name>Petr</name>
+		<surname>Kalivoda</surname>
+			<contacts>
+				<contact name="Marcel" state="offline" surname="Zii" username="marcel"/>
+			</contacts>		
+	</client>
+	<client>
+		<username>marcel</username>
+		<password>beginnow</password>
+		<name>Marcel</name>
+		<surname>Ziii</surname>
+		<contacts>
+			<contact name="Petr" state="offline" surname="Kalivoda" username="cypher"/>
+		</contacts>
+	</client>
+	<client>
+		<username>cyphe</username>
+		<password>banan</password>
+		<name>Salam</name>
+		<surname>Banan</surname>
+		<contacts />
+	</client>
+</clients>
