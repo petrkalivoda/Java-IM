@@ -58,7 +58,7 @@ public class XMLClientsIO {
      */
     private void readFromFile() {
         try {
-            file = new File("src/pr2_semestralka/server/clients.xml");
+            file = new File("src/JIM/server/clients.xml");
             DocumentBuilderFactory df = DocumentBuilderFactory.newInstance();
             DocumentBuilder db = df.newDocumentBuilder();
 
